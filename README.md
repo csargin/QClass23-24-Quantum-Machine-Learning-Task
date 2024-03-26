@@ -30,3 +30,5 @@ Judging criteria:
 •	Cite the relevant sources that you used.
 
 >>> Submit your notebook through this Google Form!
+
+https://qiskit-community.github.io/qiskit-machine-learning/tutorials/02a_training_a_quantum_model_on_a_real_dataset.html
